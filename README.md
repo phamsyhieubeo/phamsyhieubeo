@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://i.kym-cdn.com/entries/icons/facebook/000/052/772/dog_closing_eyes_meme_cover.jpg"  />
 </div>
 
 ###
